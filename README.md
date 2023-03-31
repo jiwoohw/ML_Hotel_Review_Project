@@ -12,7 +12,7 @@
 
 ## 2. 주제 선정 이유 ##
 
-평점은 낮은데 리뷰속 내용은 긍정 혹은 평점 높은데 리뷰텍스트는 부정인 것을 구분할 수 있을까??
+> 평점은 낮은데 리뷰속 내용은 긍정 혹은 평점 높은데 리뷰텍스트는 부정인 것을 구분할 수 있을까??
 
 #### _평점,후기 기반의 리뷰에서 평점은 낮지만 후기 내용은 좋거나, 평점은 높아도 후기 내용이 부정적인 리뷰 다수… 사용자가 평점을 매기는 것이 아닌, 후기 내용을 분석하여 평점 부여_ ####
 
@@ -39,7 +39,7 @@
 ## 4. EDA ##
 ![제목 없음](https://user-images.githubusercontent.com/122995812/226657583-45cf4aa4-67a1-4c2c-8ec2-525dccd073c8.png), ![제목 없음](https://user-images.githubusercontent.com/122995812/226657917-5ca21082-0aa2-4fa5-9a25-e563e3a900c4.png)
 
-- EDA결과 [PPT] (https://github.com/jiwoohw/hotel_review_project/blob/main/hotel_review.pptx, 'ppt 첨부')
+- EDA결과 ppt (https://github.com/jiwoohw/hotel_review_project/blob/main/hotel_review.pptx)
 
 <br/>
 
