@@ -39,7 +39,7 @@
 ## 4. EDA ##
 ![제목 없음](https://user-images.githubusercontent.com/122995812/226657583-45cf4aa4-67a1-4c2c-8ec2-525dccd073c8.png), ![제목 없음](https://user-images.githubusercontent.com/122995812/226657917-5ca21082-0aa2-4fa5-9a25-e563e3a900c4.png)
 
-- EDA결과 PPT 첨부(https://github.com/jiwoohw/hotel_review_project/blob/main/hotel_review.pptx)
+- EDA결과 [PPT] (https://github.com/jiwoohw/hotel_review_project/blob/main/hotel_review.pptx, 'ppt 첨부')
 
 <br/>
 
